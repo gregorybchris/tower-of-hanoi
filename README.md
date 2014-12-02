@@ -1,0 +1,1 @@
+This is my remake of the classic tower puzzle game. It has a built in timer and keeps high score records saved to the local machine for every tower height. Controls are the arrow keys and space and equals to check high scores.
